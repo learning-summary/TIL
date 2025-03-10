@@ -1,6 +1,6 @@
 # TIL
 작성법
-- 월별 폴더(YYYY_MM)에 {닉네임}_DD.md 파일을 만들어 TIL 작성
+- 월별 폴더(YYYY_MM)에 DD_{닉네임}.md 파일을 만들어 TIL 작성
 - README.md에 분류에 맞게 link 첨부
 ----
 
