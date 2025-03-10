@@ -1,3 +1,5 @@
+[블로그 정리](https://velog.io/@mini_mouse_/DB-%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+
 # 파일 시스템
 > 파일 시스템은 운영체제에서 파일과 디렉토리를 관리하는 방식을 의미한다.
 
