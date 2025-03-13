@@ -5,6 +5,7 @@
 ----
 
 ### Java
+- [Java의 Collections.unmodifiableList는 불변이 아님](https://github.com/learning-summary/TIL/blob/main/2025_03/11_sani.md)
 
 ### Spring
 - [@SpringBootTest 어노테이션 사용법](https://github.com/learning-summary/TIL/blob/main/2025_03/13_sani.md)
