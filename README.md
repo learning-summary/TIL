@@ -16,3 +16,4 @@
 ### Front-end
 - [React - useEffect와 useLayoutEffect의 차이점](https://github.com/learning-summary/TIL/blob/main/2025.03/10_sani.md)
 - [UI - Unit component 구조](https://github.com/learning-summary/TIL/blob/main/2025_03/11_sani.md)
+- [Typescript - SonarQube case](https://github.com/learning-summary/TIL/blob/main/2025_03/14_sani.md)
