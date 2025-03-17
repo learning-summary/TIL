@@ -25,3 +25,8 @@
 ### 알고리즘
 - Brute Force
   - [lv2_모음사전](https://github.com/learning-summary/TIL/blob/main/2025_03/15_sani.md)
+
+### 도메인 지식
+- 결제
+  - [PG, VAN 이해](https://github.com/learning-summary/TIL/blob/main/2025_03/17_sani.md)
+  - [결제 flow(판매, 결제, PG, 정산)](https://github.com/learning-summary/TIL/blob/main/2025_03/17_sani.md)
