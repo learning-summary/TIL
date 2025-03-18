@@ -15,6 +15,7 @@
 - [DBMS / 데이터베이스 / 스키마 / 3단계 데이터베이스 구조](https://github.com/learning-summary/TIL/blob/main/2025_03/12_mini.md)
 - [데이터독립성 / RDBMS / 릴레이션 /스키마 / 차수 / 카디날리티 / 키 / 무결성](https://github.com/learning-summary/TIL/blob/main/2025_03/13_mini.md)
 - [Transaction](https://github.com/learning-summary/TIL/blob/main/2025_03/17_mini.md)
+- [Transaction 심화](https://github.com/learning-summary/TIL/blob/main/2025_03/18_mini.md)
   
 ### Web
 - [Signed-URL](https://github.com/learning-summary/TIL/blob/main/2025_03/17_mini.md)
