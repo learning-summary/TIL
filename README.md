@@ -9,6 +9,7 @@
 
 ### Spring
 - [@SpringBootTest 어노테이션 사용법](https://github.com/learning-summary/TIL/blob/main/2025_03/13_sani.md)
+- [@RunWith 어노테이션 이란?](https://velog.io/@kimtks456/JUnit5-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-SpringBootTest-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B3%BC-Runner-classw-RunWith)
 
 ### Database
 - [파일시스템과 데이터베이스의 차이점](https://github.com/learning-summary/TIL/blob/main/2025_03/10_mini.md)
@@ -33,3 +34,6 @@
 - 결제
   - [PG, VAN 이해](https://github.com/learning-summary/TIL/blob/main/2025_03/17_sani.md)
   - [결제 flow(판매, 결제, PG, 정산)](https://github.com/learning-summary/TIL/blob/main/2025_03/17_sani.md)
+
+### Mybatis
+- [[Mybatis] statementType="CALLABLE" 이란?](https://github.com/learning-summary/TIL/blob/main/2025_03/18_sani.md)
