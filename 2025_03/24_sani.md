@@ -1,5 +1,8 @@
 # DB 파티셔닝(Partitioning)
 
+### 0. 들어가기
+보통 `db 조회 성능을 높이려면 어떻게 해야할까요?` 라는 질문에 index를 통한 index scan으로 성능을 높이면 된다고 대답한다. 하지만 데이터가 많아질수록 index 또한 방대해지며, 이에 대한 수정 또한 어려워진다. 이럴때는 partitioning을 통해 조회하려는 table의 물리적인 크기를 줄이는 것이 우선적으로 고려되어야 한다.
+
 ### 1. 정의
 - 하나의 table에 너무 많은 data가 들어가면 조회, 수정시 성능이 저하된다(index를 수정할 경우엔 더욱!)
 - 이를 해결하기 위해 table의 data 또는 index를 partition으로 나누어 관리하는 기법을 Partitioning 기법이라 한다.
@@ -48,4 +51,4 @@
 
 
 ### 참고
-https://gmlwjd9405.github.io/2018/09/24/db-partitioning.html
+- https://gmlwjd9405.github.io/2018/09/24/db-partitioning.html
