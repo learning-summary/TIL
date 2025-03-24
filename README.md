@@ -18,6 +18,7 @@
 - [Transaction](https://github.com/learning-summary/TIL/blob/main/2025_03/17_mini.md)
 - [Transaction 심화](https://github.com/learning-summary/TIL/blob/main/2025_03/18_mini.md)
 - [INDEX](https://github.com/learning-summary/TIL/blob/main/2025_03/24_mini_index.md)
+- [DB Partitioning](https://github.com/learning-summary/TIL/blob/main/2025_03/24_sani.md)
   
 ### Web
 - [Signed-URL](https://github.com/learning-summary/TIL/blob/main/2025_03/17_mini.md)
