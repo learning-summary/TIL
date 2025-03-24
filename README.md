@@ -17,9 +17,11 @@
 - [데이터독립성 / RDBMS / 릴레이션 /스키마 / 차수 / 카디날리티 / 키 / 무결성](https://github.com/learning-summary/TIL/blob/main/2025_03/13_mini.md)
 - [Transaction](https://github.com/learning-summary/TIL/blob/main/2025_03/17_mini.md)
 - [Transaction 심화](https://github.com/learning-summary/TIL/blob/main/2025_03/18_mini.md)
+- [INDEX](https://github.com/learning-summary/TIL/blob/main/2025_03/24_mini_index.md)
   
 ### Web
 - [Signed-URL](https://github.com/learning-summary/TIL/blob/main/2025_03/17_mini.md)
+- [BFF](https://github.com/learning-summary/TIL/blob/main/2025_03/24_mini_bff.md)
 
 ### Front-end
 - [React - useEffect와 useLayoutEffect의 차이점](https://github.com/learning-summary/TIL/blob/main/2025.03/10_sani.md)
